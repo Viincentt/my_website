@@ -3,8 +3,9 @@ description: I am software engineer from Paris, France. I am passionate about so
 baseurl: ""
 url: https://www.vincenthu.net
 
-theme: cvless # change to this theme when testing locally with docker
-# remote_theme: piazzai/cvless
+# change to this theme when testing locally or pushing to GitHub
+# theme: cvless
+remote_theme: piazzai/cvless
 
 # site settings
 taglong: I am software engineer from Paris, France. I am passionate about software development, open source and technology in general. I am always looking for new challenges and opportunities to learn new things.
