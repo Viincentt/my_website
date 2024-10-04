@@ -7,9 +7,12 @@ For my future self or whoever has the same issue:
 - Clone the repo
 - Init your own repo (username.github.io)
 - `copy -r cvless/demo username.github.io`
-- In _\_config.yml_ change `theme: cvless` to `remote_theme: piazzai/cvless`. This is to pass the Github Pages build.
 
-Use `docker compose up` to change and test locally on your Mac\
+Use `docker compose up` to change and test locally on your Mac
+
 Do not forget to update the theme in the _\_config.yml_
+
+- `remote_theme: piazzai/cvless` for Github Pages/builds
+- `theme: cvless` for Docker(testing locally)
 
 Use this [website](https://favicon.io) to update your favicon
