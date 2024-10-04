@@ -1,9 +1,9 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Vincent Hu
+description: I am software engineer from Paris, France. I am passionate about software development, open source and technology in general. I am always looking for new challenges and opportunities to learn new things.
 baseurl: ""
-url: https://piazzai.github.io/cvless
+url: https://viincentt.github.io
 
-theme: cvless
+remote_theme: piazzai/cvless
 
 # site settings
 taglong: Jekyll theme for a beautiful online CV
