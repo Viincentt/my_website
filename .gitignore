@@ -2,7 +2,9 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+svg
 vendor
 Gemfile.lock
 .DS_Store
 Gemfile
+docker-compose.yml
