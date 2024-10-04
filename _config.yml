@@ -1,30 +1,25 @@
 title: Vincent Hu
 description: I am software engineer from Paris, France. I am passionate about software development, open source and technology in general. I am always looking for new challenges and opportunities to learn new things.
 baseurl: ""
-url: https://viincentt.github.io
+url: https://www.vincenthu.net
 
-remote_theme: piazzai/cvless
+theme: cvless # change to this theme when testing locally with docker
+# remote_theme: piazzai/cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: I am software engineer from Paris, France. I am passionate about software development, open source and technology in general. I am always looking for new challenges and opportunities to learn new things.
+tagshort: Software Engineer from Paris.
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+  name: Vincent Hu
+  email: business@vincenthu.net
 
 # social media links
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  x: username
+  github: Viincentt
+  instagram: hu_vincent_
+  linkedin: huvincent
 
 # build settings
 permalink: pretty
