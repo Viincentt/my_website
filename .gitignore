@@ -6,4 +6,3 @@ svg/
 vendor
 Gemfile.lock
 .DS_Store
-Gemfile
