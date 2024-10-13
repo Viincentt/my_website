@@ -33,12 +33,16 @@ _Villejuif/Le Kremlin-Bicetre, France. September 2018 - July 2019_
 
 _Paris, France, January 2018 - February 2018_
 
+- Daily update with manager. Prioritizing tasks and schedule
+- Checking apartments around Paris between departures and arrivals
+- Warehouse organizing
+
 ## Assets
 
-- Paris table tennis champion at 11 years old
-- Top 5-10% (2200-4600/45000) on first round of [Google Code Jam 2020](https://codingcompetitionsonair.withgoogle.com/#code-jam)
-- AWS Cloud Practitioner CloudQuest badge
 - Top 1% (100/9000) during 2024 [IMC trading challenge Prosperity](https://prosperity.imc.com).
+- AWS Cloud Practitioner CloudQuest badge
+- Top 5-10% (2200-4600/45000) on first round of [Google Code Jam 2020](https://codingcompetitionsonair.withgoogle.com/#code-jam)
+- Paris table tennis champion at 11 years old
 
 ## Projects
 
