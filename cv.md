@@ -37,7 +37,7 @@ _Paris, France, January 2018 - February 2018_
 
 - Paris table tennis champion at 11 years old
 - Top 5-10% (2200-4600/45000) on first round of [Google Code Jam 2020](https://codingcompetitionsonair.withgoogle.com/#code-jam)
-- AWS Cloud Practicioner CloudQuest badge
+- AWS Cloud Practitioner CloudQuest badge
 - Top 1% (100/9000) during 2024 [IMC trading challenge Prosperity](https://prosperity.imc.com).
 
 ## Projects
