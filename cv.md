@@ -21,13 +21,22 @@ _Dublin, Ireland. March 2021 - September 2023_
 
 _Villejuif/Le Kremlin-Bicetre, France. January 2020 - January 2021_
 
+- Treasurer of the association. Order of 500+ t-shirts/hoodies.
+- Computer science teaching assistant in _C_, _C++_, _SQL_ for 600~ 3<sup>rd</sup> year students
+
 ### Software engineer @ [Natixis](https://natixis.groupebpce.com)
 
 _Paris, France. September 2019 - January 2020_
 
+- Implementation of pipeline, builds, tests, deployments written in _Python_
+- Worked with SCRUM, XLDeploy, Postman, XML and JSON file formats
+
 ### Teaching assistant ASM @ [EPITA](https://epita.fr)
 
 _Villejuif/Le Kremlin-Bicetre, France. September 2018 - July 2019_
+
+- Weekly programming session of _C_ for 2<sup>nd</sup> year students.
+- Notions: pointers, memory allcoation, GDB, linked list, hash table, threads
 
 ### Student job @ [Comforts of home](https://www.linkedin.com/company/comforts-of-home-paris/)
 
