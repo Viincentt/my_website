@@ -21,7 +21,9 @@ _Dublin, Ireland. March 2021 - September 2023_
   - Leading weekly maintenance meeting, triaging and assigning tickets
   - Bug fixing and presentations
 - Tweak BFD L3 protocol to adhere to MacSec new L2 security feature using _TACC_/_C++_
-- Experience with full software development life cycle, including coding standards, code reviews, source control management (_Perforce_), build and test processes
+- Experience with full software development life cycle, including coding standards, code reviews, source control management (_Perforce_), builds and tests.
+- Mentoring new software engineers. Giving guidance with initial training, internal tools and processes.
+- Quarterly escalation duty. Received a peer bonus for pushing multiple escalations that were left unanswered.
 
 ### Teaching assistant YAKA/ACU @ [EPITA](https://epita.fr)
 
