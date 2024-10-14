@@ -17,6 +17,12 @@ _Remote. September 2023 - current_
 
 _Dublin, Ireland. March 2021 - September 2023_
 
+- DMA driver for packet networking ASICS project maintainer
+  - Leading weekly maintenance meeting, triaging and assigning tickets
+  - Bug fixing and presentations
+- Tweak BFD L3 protocol to adhere to MacSec new L2 security feature using _TACC_/_C++_
+- Experience with full software development life cycle, including coding standards, code reviews, source control management (_Perforce_), build and test processes
+
 ### Teaching assistant YAKA/ACU @ [EPITA](https://epita.fr)
 
 _Villejuif/Le Kremlin-Bicetre, France. January 2020 - January 2021_
