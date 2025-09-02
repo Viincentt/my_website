@@ -11,16 +11,22 @@ title: CV
 
 ### Software engineer AI training @ [Outlier](https://outlier.ai)
 
-_Remote. September 2023 - current_
+_Remote. January 2024 - current_
+
+- Generating software engineering related data for LLMs training
+- Evaluating the quality of AI-generated code/answer, including human-readable summaries rationale
+- Solving software engineering problems, writing robust, functional and efficient code
 
 ### Software engineer @ [Arista Networks](https://www.arista.com)
 
 _Dublin, Ireland. March 2021 - September 2023_
 
 - DMA driver for packet networking ASICS project maintainer
-  - Leading weekly maintenance meeting, triaging and assigning tickets
+  - Weekly maintenance meeting, triaging and assigning tickets
   - Bug fixing and presentations
 - Tweak BFD L3 protocol to adhere to MacSec new L2 security feature using _TACC_/_C++_
+- Integrate new manufacturer chip specification into configuration file.
+  - Read and update register address and size accordingly
 - Experience with full software development life cycle, including coding standards, code reviews, source control management (_Perforce_), builds and tests.
 - Mentoring new software engineers. Giving guidance with initial training, internal tools and processes.
 - Quarterly escalation duty. Received a peer bonus for pushing multiple escalations that were left unanswered.
@@ -71,7 +77,7 @@ TODO
 
 _Villejuif/Le Kremlin-Bicetre, France. 2016 - 2021_
 
-- Data science and big data major
+- Data science and data engineering major
 - Coursework includes text mining, algorithmic and data structures, sparse graphs, management of project for data science, data engineering...
 - Non degree university exchange at [Beijing Institute of Technology]() from February 2018 to July 2018
 
